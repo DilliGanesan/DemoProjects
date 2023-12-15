@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-07T13:17:16 IST" name="Default suite" finished-at="2023-12-07T13:17:50 IST" duration-ms="34178">
+    <groups>
+    </groups>
+    <test started-at="2023-12-07T13:17:16 IST" name="Default test" finished-at="2023-12-07T13:17:50 IST" duration-ms="34178">
+      <class name="Test.org.PracticeMaven">
+        <test-method signature="loginBrowser()[pri:1, instance:Test.org.PracticeMaven@6d4d66d2]" started-at="2023-12-07T13:17:16 IST" name="loginBrowser" finished-at="2023-12-07T13:17:44 IST" duration-ms="28288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBrowser -->
+        <test-method signature="btnNavigation()[pri:2, instance:Test.org.PracticeMaven@6d4d66d2]" started-at="2023-12-07T13:17:44 IST" name="btnNavigation" finished-at="2023-12-07T13:17:47 IST" duration-ms="2609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btnNavigation -->
+        <test-method signature="xyCoordinates()[pri:3, instance:Test.org.PracticeMaven@6d4d66d2]" started-at="2023-12-07T13:17:47 IST" name="xyCoordinates" finished-at="2023-12-07T13:17:47 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xyCoordinates -->
+        <test-method signature="backGroundclr()[pri:4, instance:Test.org.PracticeMaven@6d4d66d2]" started-at="2023-12-07T13:17:47 IST" name="backGroundclr" finished-at="2023-12-07T13:17:47 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backGroundclr -->
+        <test-method signature="btnSize()[pri:5, instance:Test.org.PracticeMaven@6d4d66d2]" started-at="2023-12-07T13:17:47 IST" name="btnSize" finished-at="2023-12-07T13:17:47 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btnSize -->
+        <test-method signature="isEnabled()[pri:6, instance:Test.org.PracticeMaven@6d4d66d2]" started-at="2023-12-07T13:17:47 IST" name="isEnabled" finished-at="2023-12-07T13:17:48 IST" duration-ms="792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isEnabled -->
+        <test-method signature="btnHold()[pri:7, instance:Test.org.PracticeMaven@6d4d66d2]" started-at="2023-12-07T13:17:48 IST" name="btnHold" finished-at="2023-12-07T13:17:50 IST" duration-ms="1968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btnHold -->
+      </class> <!-- Test.org.PracticeMaven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
